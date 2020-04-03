@@ -11,7 +11,7 @@
     "debug": "~4.1.1",
     "express": "~4.16.4",
     "morgan": "~1.9.1",
-    "nodemon": "^1.18.11",
+    "nodemon": "^2.0.2",
     "pug": "^2.0.3",
     "serve-favicon": "~2.5.0"
   }
